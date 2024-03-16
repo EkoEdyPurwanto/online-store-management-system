@@ -19,3 +19,16 @@
 
 # Go workspace file
 go.work
+
+# ENV
+env.sh
+
+# IDE
+.idea
+.vscode
+
+# LOGGING
+*.log
+
+# TEMPORARY
+tmp
